@@ -83,3 +83,5 @@ To better integrate with real-world data feeds, introduce an additional intake a
 
 ## For further details, check out the technical documentation
 [View Technical Documentation](docs/docs/multi_agent_credit_risk_automation_system_technical_documentation.pdf)
+
+(Full code available on request - feel free to reach out)
